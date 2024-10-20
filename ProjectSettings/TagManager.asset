@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destination
+  - Startpoint
+  - Mob
+  - Monster
+  - GridSystem
+  - Tower
+  - Bullet
+  - DestinationBox
+  - WaveManager
+  - UnitManager
+  - GameManager
+  - Plane
+  - WaveManaer
+  - PlacementManager
+  - Missile
+  - GoblinTower
+  - Towers
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tower
+  - Water
+  - UI
+  - Upgrade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

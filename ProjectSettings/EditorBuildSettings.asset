@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/1_LogoPlay.unity
+    guid: 81bef9a69140c87419299e0082a59c2f
+  - enabled: 0
+    path: Assets/Scenes/2_GameTitle.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/3-1_Introduction&EnterNickName1.unity
+    guid: 66b9a23ebed61ac45816a357bbcd2c3b
+  - enabled: 0
+    path: Assets/Scenes/3-2_Input_NickName.unity
+    guid: da111eff7f526e34da65bac65a8ca43f
+  - enabled: 0
+    path: Assets/Scenes/3-3_Introduction&EnterNickName2.unity
+    guid: 7797ad56a5b84b24a9cb28e9ee67b629
+  - enabled: 0
+    path: Assets/Scenes/4-1_ChooseHero.unity
+    guid: 12f2ca18764f25b4a89599f1ba22e388
+  - enabled: 0
+    path: Assets/Scenes/4-1_HeroChooseYESorNO.unity
+    guid: a79306c13bbf553409080f1317742c77
+  - enabled: 0
+    path: Assets/Scenes/4-2_HeroChooseYESorNO.unity
+    guid: 3ab7c72d167ba444eb43e53a17b95297
+  - enabled: 0
+    path: Assets/Scenes/5-1_RoomPage.unity
+    guid: e4faeb19bbaf0774c9f397a7e5587a02
+  - enabled: 0
+    path: Assets/Scenes/6_HeroScreen_Caribbean.unity
+    guid: 12a18173d8a13794baed5074d457f1d2
+  - enabled: 0
+    path: Assets/Scenes/6_HeroScreen_Hikaru.unity
+    guid: efab1c23dc3880c40bd879dc6569b94a
+  - enabled: 0
+    path: Assets/Scenes/6_HeroScreen_HuaLand.unity
+    guid: ce157b22be1101842a1872dcbb7ffe14
+  - enabled: 1
+    path: Assets/Scenes/7-1_Scene_MainScene.unity
+    guid: a46a0d890799fd849a4ede7dae370c64
+  - enabled: 0
+    path: Assets/Scenes/GameOver.unity
+    guid: 62146aa4a88792c429686671c8ff3d6c
+  - enabled: 0
+    path: Assets/Scenes/Victory.unity
+    guid: 21b60f61ba2ee2b4099805c04019d5a3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b64400d5817f3f644abc7b053076d262,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 24ad1c05ded6bb6428a1b99b14daa16e,
+      type: 2}
